@@ -1,0 +1,23 @@
+PUR2_DROME	113	321	Domain	ATP-grasp
+PUR2_DROME	440	1155	Region	AIRS domain
+PUR2_DROME	1152	1353	Region	GART domain
+PUR2_DROME	1262	1263	Active site	Proton donor
+PUR2_DROME	192	196	Binding site	
+PUR2_DROME	199	200	Binding site	
+PUR2_DROME	222	223	Binding site	
+PUR2_DROME	231	232	Binding site	
+PUR2_DROME	290	291	Binding site	
+PUR2_DROME	292	293	Binding site	
+PUR2_DROME	1163	1166	Binding site	
+PUR2_DROME	1218	1219	Binding site	
+PUR2_DROME	1243	1247	Binding site	
+PUR2_DROME	1260	1261	Binding site	
+PUR2_DROME	1294	1299	Binding site	
+PUR2_DROME	1324	1328	Binding site	
+PUR2_DROME	1298	1299	Site	Raises pKa of active site His
+PUR2_DROME	813	814	Modified residue	Phosphoserine
+PUR2_DROME	815	816	Modified residue	Phosphoserine
+PUR2_DROME	433	434	Alternative sequence	ID=VSP_005512;In isoform Short. I->M
+PUR2_DROME	434	1353	Alternative sequence	ID=VSP_005513;In isoform Short. Missing
+PUR2_DROME	1163	1164	Mutagenesis	Loss of phosphoribosylglycinamide formyltransferase enzymatic activity. G->S
+

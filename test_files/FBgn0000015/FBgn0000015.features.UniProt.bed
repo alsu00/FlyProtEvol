@@ -1,0 +1,16 @@
+ABDB_DROME	386	446	DNA binding	Homeobox
+ABDB_DROME	0	199	Region	Disordered
+ABDB_DROME	321	360	Region	Disordered
+ABDB_DROME	437	475	Region	Disordered
+ABDB_DROME	0	28	Compositional bias	Polar residues
+ABDB_DROME	30	51	Compositional bias	Basic residues
+ABDB_DROME	51	93	Compositional bias	Polar residues
+ABDB_DROME	110	199	Compositional bias	Polar residues
+ABDB_DROME	324	360	Compositional bias	Polar residues
+ABDB_DROME	445	475	Compositional bias	Polar residues
+ABDB_DROME	0	223	Alternative sequence	ID=VSP_002396;In isoform R. Missing
+ABDB_DROME	379	382	Helix	
+ABDB_DROME	395	408	Helix	
+ABDB_DROME	413	423	Helix	
+ABDB_DROME	427	444	Helix	
+
